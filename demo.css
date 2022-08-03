@@ -1,3 +1,21 @@
 p{
     background-color: red;
 }
+body.title{
+    background-color: brown;
+}
+body p#id-title{
+    background-color:royalblue ;
+}
+body p#id-title.title{
+    background-color: blue;
+
+}
+
+
+
+
+
+
+
+
